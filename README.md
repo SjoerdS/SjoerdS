@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SjoerdS
+
 
 <h1 align="left" id="macropower-title">👋 Hi, I’m @SjoerdS</h1>
 <h3 align="left">I am a Versatilist, doing SecOps/DevOps/Engineering things</h3>
